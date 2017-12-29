@@ -13,7 +13,7 @@ Therefore, in this module, we implemented so that data can be acquired even for 
 
 ## Install
 1. Download SymbolSearch.mqh
-2. Save to the file /MQL4/Includes/mql4_modules/SymbolSearch/SymbolSearch.mqh
+2. Save to the file /MQL4/Include/mql4_modules/SymbolSearch/SymbolSearch.mqh
 
 
 ## Usage
